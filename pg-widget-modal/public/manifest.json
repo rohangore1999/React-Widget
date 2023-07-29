@@ -1,0 +1,25 @@
+{
+  "short_name": "Cashfree Offers",
+  "name": "Cashfree Offers",
+  "icons": [
+    {
+      "href": "https://cashfreelogo.cashfree.com/cashfreepayments/logopng2x/Group_4354.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "href": "https://cashfreelogo.cashfree.com/cashfreepayments/logopng2x/Group_4354.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "href": "https://cashfreelogo.cashfree.com/cashfreepayments/logopng2x/Group_4354.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
